@@ -47,4 +47,4 @@ Ies Alandalus GNU GPL / Java Community Process
 
 ## Recursos Adicionales 📌
 
-Link Github: 
+Link Github: https://github.com/SamiRiok
